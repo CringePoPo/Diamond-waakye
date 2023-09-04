@@ -1,0 +1,7 @@
+Data Modelling
+Create 
+Signing up , Signing in and signing out 
+Aunthentication 
+Map integration 
+Add , edit , view and delete products
+Cart system - add or remove items in and from cart and calculate bill (respectively)
